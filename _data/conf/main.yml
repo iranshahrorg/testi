@@ -269,7 +269,7 @@ meta:
   schema_markup_post_add_postbody: true
   schema_markup_logo_img: /assets/img/posts/user.png
   schema_markup_about_img: /assets/img/about/airanshahrblack.png
-  schema_markup_default_meta_img: /assets/img/home/author-ir.png
+  schema_markup_default_meta_img: /assets/img/home/authorir.png
   mobile_app: true
   android_mobile_app: true
   ios_mobile_app: true
