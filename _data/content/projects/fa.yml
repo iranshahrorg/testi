@@ -21,8 +21,8 @@ page_data:
       
   list:
     - type: id_shop
-      project_name: "یکتا دریپ"
-      project_excerpt: "فروشگاه نوار تیپ"
+      project_name: "سیماگرا"
+      project_excerpt: "رسانه ویدئو ما"
       img: ":aluminium-composite-Commercial-Complex.webp"
       img_title: "mmm"
       date: "2022-04-30"
@@ -30,8 +30,8 @@ page_data:
        شرح
 
     - type: id_company
-      project_name: "اترک دریپ"
-      project_excerpt: "شرکت تولید نوار تیپ و لوله پلی اتیلن"
+      project_name: "آواگرا"
+      project_excerpt: "رسانه صوتی ما"
       img: ":aluminium-composite-Commercial-Complex-image1.webp"
       img_title: "mmmm"
       date: "2022-04-30"
