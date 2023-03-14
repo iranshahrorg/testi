@@ -40,7 +40,7 @@ image_viewer:
   load_error: تصویر بارگیری نشد.
 
 copyright:
-  additional_text: " zamtar tarah"
+  additional_text: " kargobak"
 
 creative_commons:
   some_rights_reserved: 
@@ -125,14 +125,14 @@ post-list:
 
 # for home layout
 home:
-  title: اسکیورام
+  title: ایرانگرایی
   button_name: خانه
   new_posts_title: نوشته‌های جدید
   new_posts_show_more_button: بیشتر ...
   # you can use $site_brand in line1 and line2 to convert your site.data.owner.brand text
-  top_header_line1: "اسکیورام"
+  top_header_line1: "ایرانگرایی"
   # if commented, top header will be a single line
-  top_header_line2: "09154488820"
+  top_header_line2: "بستر امن نویسندگان"
 
 # for archives layout
 archives:
@@ -144,7 +144,7 @@ archives:
 about:
   title: درباره
   button_name: درباره
-  sub_title: "اسکیورام"
+  sub_title: "ایرانگرایی"
   email_title: ایمیل
 
 # for links layout
@@ -175,7 +175,7 @@ auto_content:
   greeting: طراحی وبسایت و تبلیغات اینترنتی
   text: *meta_info
   more_info: اطلاعات بیشتر
-  auto_generated_text: به نام یگانه معمار هستی . اسکیورام یکی از با تجربه ترین طراحان و مبلغ در زمینه اینترنت می باشد که با شناخت صحیح نیاز مشتریان و بهره گیری از دانش روز دنیا توانسته است حضوری متفاوت در راستای مشاوره،طراحی و بهینه سازی سئو وبسایت ها داشته باشد.
+  auto_generated_text: به نام یگانه معمار هستی . ایرانگرایی یکی از با تجربه ترین طراحان و مبلغ در زمینه اینترنت می باشد که با شناخت صحیح نیاز مشتریان و بهره گیری از دانش روز دنیا توانسته است حضوری متفاوت در راستای مشاوره،طراحی و بهینه سازی سئو وبسایت ها داشته باشد.
 
 cookie_consent:
   privacy_policy_link_text: *privacy_policy_title

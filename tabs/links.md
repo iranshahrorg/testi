@@ -24,12 +24,12 @@ page_data:
   list:
     -
     - type: id_servers
-      title: "قیمت سئو"
-      url: "https://zamtar.ir/"
-      info: "پلن ها و توضیحات کامل خدمات سئو زمتر طراح"
+      title: "همکار 1"
+      url: "https://iranshahr.no"
+      info: "متن اطلاعات"
 
     - type: id_clients
-      title: "نوار تیپ"
+      title: "همکار 2"
       url: "https://atrakdrip.ir/"
-      info: "شرکت اترک دریپ"
+      info: "متن اطلاعات"
 ---
