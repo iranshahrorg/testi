@@ -5,14 +5,14 @@
 page_data:
   main:
     header: "پروژه‌ها"
-    info: "برخی از نمونه‌کارهای انجام شده توسط شرکت ما در زیر لیست شده است."
+    info: "لیست برخی از پروژه های سازمان"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":aluminium-composite-projects.avifs"
+    img: ":pro.jpg"
     back_color: "lightblue"
 
   category:
-    - title: "فروشگاه"
+    - title: "گردشگری"
       type: id_shop
       color: "black"
     - title: "شرکت"
