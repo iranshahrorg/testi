@@ -4,13 +4,13 @@ layout: home
 lng_pair: id_home
 
 # image for page specific usage
-img: ":sq.png"
+img: ":authorir.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 date: 2022-04-30 02:59 +0330
 
 # for override items in _data/lang/[language].yml
-title: قیمت | تبلیغات اینترنتی | سئو | 09154488820
+title: وبسایت ایرانگرایی سازمان ایرانشهر نوین
 #button_name: "My button"
 # for override side_and_top_nav_buttons in _data/conf/main.yml
 #icon: "fa fa-bath"
@@ -19,7 +19,7 @@ title: قیمت | تبلیغات اینترنتی | سئو | 09154488820
 # if not specified, date will be used.
 meta_modify_date: 2022-12-25 12:32:00 +0330
 # check the meta_common_description in _data/lang/[language].yml
-meta_description: "قیمت سئو | لیست قیمت طراحی وبسایت | شرکتی | خدمات طراحی و بهینه سازی وبسایت | لینک سازی حرفه ای |"
+meta_description: "توضیحات متا"
 image_viewer_on: true
 image_lazy_loader_on: true
 # optional
@@ -35,13 +35,13 @@ image_lazy_loader_on: true
 # don't forget that this is root index.html. If you disable this, there will be no index.html page to open
 #published: false
 faq:
-- question: "سئو چیست؟"
-  answer: "بهینه سازی کردن"
-- question: "قیمت سئو چقدر است؟"
+- question: "ایرانگرایی چیست؟"
+  answer: "جواب"
+- question: "چرا باید ایرانگرایی کنیم"
   answer: "
-  به عوامل زیادی بستگی دارد مانند:
-  1. مقدار پروژه
-  2. میزان رقابت"
+  بخاطر دلایل زیر:
+  1. تست
+  2. تست"
 ---
 متن صفحه اصلی
 

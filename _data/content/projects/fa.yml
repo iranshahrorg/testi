@@ -4,15 +4,15 @@
 ###########################################################
 page_data:
   main:
-    header: "پروژه‌ها"
-    info: "لیست برخی از پروژه های سازمان"
+    header: "بخش ها"
+    info: "بخش ها"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":pro.jpg"
+    img: ":pro.png"
     back_color: "lightblue"
 
   category:
-    - title: "گردشگری"
+    - title: "فروشگاه"
       type: id_shop
       color: "black"
     - title: "شرکت"
@@ -22,17 +22,17 @@ page_data:
   list:
     - type: id_shop
       project_name: "سیماگرا"
-      project_excerpt: "رسانه ویدئو ما"
-      img: ":aluminium-composite-Commercial-Complex.webp"
+      project_excerpt: "صوتی"
+      img: ":"
       img_title: "mmm"
       date: "2022-04-30"
       post: |
        شرح
 
     - type: id_company
-      project_name: "آواگرا"
-      project_excerpt: "رسانه صوتی ما"
-      img: ":aluminium-composite-Commercial-Complex-image1.webp"
+      project_name: "آوا گرا"
+      project_excerpt: "تست"
+      img: ":"
       img_title: "mmmm"
       date: "2022-04-30"
       post: |
