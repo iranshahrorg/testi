@@ -1,7 +1,7 @@
 ---
 layout: about
 lng_pair: id_about
-img: ":aluminium-composite-projects.avifs"
+img: ":iranshahrblack.png"
 sitemap: false
 ---
 
